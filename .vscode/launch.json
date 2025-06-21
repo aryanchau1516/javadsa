@@ -1,0 +1,1701 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Rev_1",
+            "request": "launch",
+            "mainClass": "ARRAYS.Rev_1",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
+            "name": "Pairs",
+            "request": "launch",
+            "mainClass": "ARRAYS.Pairs",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
+            "name": "Bubble1",
+            "request": "launch",
+            "mainClass": "ARRAYS.Bubble1",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
+            "name": "iunput",
+            "request": "launch",
+            "mainClass": "ARRAYS.iunput",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
+            "name": "Arr8",
+            "request": "launch",
+            "mainClass": "ARRAYS.Arr8",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
+            "name": "Prime3",
+            "request": "launch",
+            "mainClass": "Prime3",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "UniqueNum1",
+            "request": "launch",
+            "mainClass": "ARRAYS.UniqueNum1",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Unique_Num",
+            "request": "launch",
+            "mainClass": "ARRAYS.Unique_Num",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "pattern8",
+            "request": "launch",
+            "mainClass": "pattern.pattern8",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Pattern11",
+            "request": "launch",
+            "mainClass": "pattern.Pattern11",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern.pattern6",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "DistinctEle",
+            "request": "launch",
+            "mainClass": "hash_map.DistinctEle",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "HashSet_1",
+            "request": "launch",
+            "mainClass": "hash_map.HashSet_1",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Valid_Anagram",
+            "request": "launch",
+            "mainClass": "hash_map.Valid_Anagram",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Base_1",
+            "request": "launch",
+            "mainClass": "hash_map.Base_1",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Reerse2",
+            "request": "launch",
+            "mainClass": "ARRAYS.Reerse2",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "second_bigarr",
+            "request": "launch",
+            "mainClass": "ARRAYS.second_bigarr",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "ARRAYS.SubArray",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "SqureNum",
+            "request": "launch",
+            "mainClass": "twopointer11.SqureNum",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Sort3",
+            "request": "launch",
+            "mainClass": "pointer11.Sort3",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Sort2",
+            "request": "launch",
+            "mainClass": "pointer11.Sort2",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Sort2",
+            "request": "launch",
+            "mainClass": "two_pointers.Sort2",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Sort2",
+            "request": "launch",
+            "mainClass": "two_Pointers.Sort2",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Sort1",
+            "request": "launch",
+            "mainClass": "two_Pointers.Sort1",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern.pattern1",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "One_1",
+            "request": "launch",
+            "mainClass": "hashmap.One_1",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Averagenum",
+            "request": "launch",
+            "mainClass": "ARRALIST.Averagenum",
+            "projectName": "javalearn_769c8068"
+        },
+        {
+            "type": "java",
+            "name": "Sort1",
+            "request": "launch",
+            "mainClass": "two_Pointers.Sort1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "two_Pointers.Sort",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_Arr",
+            "request": "launch",
+            "mainClass": "ARRAYS.Rotate_Arr",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Linked_list",
+            "request": "launch",
+            "mainClass": "linked_list.Linked_list",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Rev_1",
+            "request": "launch",
+            "mainClass": "ARRAYS.Rev_1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "MaxFreq",
+            "request": "launch",
+            "mainClass": "hashmap.MaxFreq",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "One_1",
+            "request": "launch",
+            "mainClass": "hashmap.One_1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "SubsetCheckWithoutHashSet",
+            "request": "launch",
+            "mainClass": "hash_map.SubsetCheckWithoutHashSet",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "One_1",
+            "request": "launch",
+            "mainClass": "hash_map.One_1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_arr",
+            "request": "launch",
+            "mainClass": "ARRAYS.Reverse_arr",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Max_ele",
+            "request": "launch",
+            "mainClass": "ARRAYS.Max_ele",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Unique_Num",
+            "request": "launch",
+            "mainClass": "ARRAYS.Unique_Num",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Check_Sorted",
+            "request": "launch",
+            "mainClass": "ARRAYS.Check_Sorted",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Search_LastOcc",
+            "request": "launch",
+            "mainClass": "ARRAYS.Search_LastOcc",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Search_mulArr",
+            "request": "launch",
+            "mainClass": "ARRAYS.Search_mulArr",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Max_Num",
+            "request": "launch",
+            "mainClass": "ARRAYS.Max_Num",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "StackLL_1",
+            "request": "launch",
+            "mainClass": "StackLL_1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Linked_List6",
+            "request": "launch",
+            "mainClass": "linked_list.Linked_List6",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Frst_Occourence",
+            "request": "launch",
+            "mainClass": "Recursion.Frst_Occourence",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Nth_fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.Nth_fibonacci",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Sum_Of",
+            "request": "launch",
+            "mainClass": "Recursion.Sum_Of",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Factorial_1",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial_1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "DecreaseNum",
+            "request": "launch",
+            "mainClass": "Recursion.DecreaseNum",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "atoz",
+            "request": "launch",
+            "mainClass": "sTRING.atoz",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Palndrome_1",
+            "request": "launch",
+            "mainClass": "sTRING.Palndrome_1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "ARRAYS.SelectionSort",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "MinNum",
+            "request": "launch",
+            "mainClass": "ARRAYS.MinNum",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Bubble1",
+            "request": "launch",
+            "mainClass": "ARRAYS.Bubble1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "SubArrSum",
+            "request": "launch",
+            "mainClass": "ARRAYS.SubArrSum",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "ARRAYS.SubArray",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Pairs",
+            "request": "launch",
+            "mainClass": "ARRAYS.Pairs",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Reerse2",
+            "request": "launch",
+            "mainClass": "ARRAYS.Reerse2",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Largest1",
+            "request": "launch",
+            "mainClass": "ARRAYS.Largest1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Stack_2",
+            "request": "launch",
+            "mainClass": "Stack_2",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Stack_1",
+            "request": "launch",
+            "mainClass": "Stack_1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList_5",
+            "request": "launch",
+            "mainClass": "linked_list.LinkedList_5",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList_4",
+            "request": "launch",
+            "mainClass": "linked_list.LinkedList_4",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList_3",
+            "request": "launch",
+            "mainClass": "linked_list.LinkedList_3",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList_2",
+            "request": "launch",
+            "mainClass": "linked_list.LinkedList_2",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList_1",
+            "request": "launch",
+            "mainClass": "linked_list.LinkedList_1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Missingnum",
+            "request": "launch",
+            "mainClass": "GeekforGeeks.Missingnum",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "pattern12",
+            "request": "launch",
+            "mainClass": "pattern.pattern12",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern.pattern5",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern.pattern6",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern.pattern1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "CielChar",
+            "request": "launch",
+            "mainClass": "BinarySearch.CielChar",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Binary2",
+            "request": "launch",
+            "mainClass": "BinarySearch.Binary2",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Binary1",
+            "request": "launch",
+            "mainClass": "BinarySearch.Binary1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "second_bigarr",
+            "request": "launch",
+            "mainClass": "ARRAYS.second_bigarr",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "TargetSum",
+            "request": "launch",
+            "mainClass": "ARRAYS.TargetSum",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "B1",
+            "request": "launch",
+            "mainClass": "treedsa.B1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "alternetorder",
+            "request": "launch",
+            "mainClass": "alternetorder",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Selectionn",
+            "request": "launch",
+            "mainClass": "sorting.Selectionn",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Bubble1",
+            "request": "launch",
+            "mainClass": "sorting.Bubble1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Queuee",
+            "request": "launch",
+            "mainClass": "deQueue.Queuee",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Stackk",
+            "request": "launch",
+            "mainClass": "deQueue.Stackk",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "queue.Reverse",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "FirstNonRepeat",
+            "request": "launch",
+            "mainClass": "queue.FirstNonRepeat",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "StackUsinQ",
+            "request": "launch",
+            "mainClass": "queue.StackUsinQ",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "UingStak",
+            "request": "launch",
+            "mainClass": "queue.UingStak",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Queue1",
+            "request": "launch",
+            "mainClass": "queue.Queue1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "QueueLL",
+            "request": "launch",
+            "mainClass": "queue.QueueLL",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "QueueImp1",
+            "request": "launch",
+            "mainClass": "queue.QueueImp1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateBrackeate",
+            "request": "launch",
+            "mainClass": "DuplicateBrackeate",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Balance_bracket",
+            "request": "launch",
+            "mainClass": "Balance_bracket",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "NextGraterEle",
+            "request": "launch",
+            "mainClass": "NextGraterEle",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStackComp",
+            "request": "launch",
+            "mainClass": "ReverseStackComp",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "REerse",
+            "request": "launch",
+            "mainClass": "REerse",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Revword2",
+            "request": "launch",
+            "mainClass": "sTRING.Revword2",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Stack5",
+            "request": "launch",
+            "mainClass": "Stack5",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "PushATBottam",
+            "request": "launch",
+            "mainClass": "PushATBottam",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Stack2$Node",
+            "request": "launch",
+            "mainClass": "Stack2$Node",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Stack1$stack",
+            "request": "launch",
+            "mainClass": "Stack1$stack",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateEle",
+            "request": "launch",
+            "mainClass": "ARRAYS.DuplicateEle",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Delete",
+            "request": "launch",
+            "mainClass": "Delete",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "PushAtBottom",
+            "request": "launch",
+            "mainClass": "PushAtBottom",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Insert",
+            "request": "launch",
+            "mainClass": "Insert",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Copy",
+            "request": "launch",
+            "mainClass": "Copy",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Prime3",
+            "request": "launch",
+            "mainClass": "Prime3",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "perfect",
+            "request": "launch",
+            "mainClass": "perfect",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Basic3",
+            "request": "launch",
+            "mainClass": "linked_list.Basic3",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Averagenum",
+            "request": "launch",
+            "mainClass": "ARRALIST.Averagenum",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Nth$InnerNnthnode",
+            "request": "launch",
+            "mainClass": "linked_list.Nth$InnerNnthnode",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Basic2$List_b",
+            "request": "launch",
+            "mainClass": "linked_list.Basic2$List_b",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "SelctionSort",
+            "request": "launch",
+            "mainClass": "sorting.cyclicSort.SelctionSort",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "minbthree",
+            "request": "launch",
+            "mainClass": "ARRAYS.minbthree",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LineList1$linked",
+            "request": "launch",
+            "mainClass": "linked_list.LineList1$linked",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "ImplementationLL",
+            "request": "launch",
+            "mainClass": "linked_list.ImplementationLL",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "ImplementationLL$linked_listl",
+            "request": "launch",
+            "mainClass": "linked_list.ImplementationLL$linked_listl",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "linked_list.Basic",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "UniqueNum1",
+            "request": "launch",
+            "mainClass": "ARRAYS.UniqueNum1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Uniquenum",
+            "request": "launch",
+            "mainClass": "ARRAYS.Uniquenum",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Stack3",
+            "request": "launch",
+            "mainClass": "Stack3",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LinearSerarrchAllOccur",
+            "request": "launch",
+            "mainClass": "Recursion.LinearSerarrchAllOccur",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LinearSerarrch2",
+            "request": "launch",
+            "mainClass": "Recursion.LinearSerarrch2",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "LinearSerarrch",
+            "request": "launch",
+            "mainClass": "Recursion.LinearSerarrch",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "IsSortedArr",
+            "request": "launch",
+            "mainClass": "Recursion.IsSortedArr",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "CountZero",
+            "request": "launch",
+            "mainClass": "Recursion.CountZero",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "PalindromNum",
+            "request": "launch",
+            "mainClass": "Recursion.PalindromNum",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "SumoDigit",
+            "request": "launch",
+            "mainClass": "Recursion.SumoDigit",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Extraele",
+            "request": "launch",
+            "mainClass": "GeekforGeeks.Extraele",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "arrneg",
+            "request": "launch",
+            "mainClass": "ARRAYS.arrneg",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "al1",
+            "request": "launch",
+            "mainClass": "ARRALIST.al1",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "Arr8",
+            "request": "launch",
+            "mainClass": "ARRAYS.Arr8",
+            "projectName": "javalearn_ff85f191"
+        },
+        {
+            "type": "java",
+            "name": "One",
+            "request": "launch",
+            "mainClass": "bitManipulation.One",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Binary_search",
+            "request": "launch",
+            "mainClass": "Recursion.Binary_search",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "SelctionSort",
+            "request": "launch",
+            "mainClass": "sorting.cyclicSort.SelctionSort",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "CielChar",
+            "request": "launch",
+            "mainClass": "BinarySearch.CielChar",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Binary2",
+            "request": "launch",
+            "mainClass": "BinarySearch.Binary2",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "EvenDigitArr",
+            "request": "launch",
+            "mainClass": "linearSearch.EvenDigitArr",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Reversearray",
+            "request": "launch",
+            "mainClass": "linearSearch.Reversearray",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Search2d",
+            "request": "launch",
+            "mainClass": "Search2d",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "MinValue",
+            "request": "launch",
+            "mainClass": "linearSearch.MinValue",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "StringSearch",
+            "request": "launch",
+            "mainClass": "linearSearch.StringSearch",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "STRING.IfElse",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern.pattern4",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern.pattern6",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "he",
+            "request": "launch",
+            "mainClass": "PATTERN.he",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Pattern11",
+            "request": "launch",
+            "mainClass": "PATTERN.Pattern11",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "AllDuplicateNum",
+            "request": "launch",
+            "mainClass": "sorting.cyclicSort.AllDuplicateNum",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateNum",
+            "request": "launch",
+            "mainClass": "sorting.cyclicSort.DuplicateNum",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "DisappearNum",
+            "request": "launch",
+            "mainClass": "sorting.cyclicSort.DisappearNum",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Missing",
+            "request": "launch",
+            "mainClass": "sorting.cyclicSort.Missing",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort",
+            "request": "launch",
+            "mainClass": "sorting.cyclicSort.CyclicSort",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "TwodbinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch.TwodbinarySearch",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Arr8",
+            "request": "launch",
+            "mainClass": "ARRAYS.Arr8",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "FirstLastPos",
+            "request": "launch",
+            "mainClass": "BinarySearch.FirstLastPos",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "FloorNumber",
+            "request": "launch",
+            "mainClass": "BinarySearch.FloorNumber",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "CielingNumber",
+            "request": "launch",
+            "mainClass": "BinarySearch.CielingNumber",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "OrderagnosticBinary",
+            "request": "launch",
+            "mainClass": "BinarySearch.OrderagnosticBinary",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Binary1",
+            "request": "launch",
+            "mainClass": "BinarySearch.Binary1",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Prime3",
+            "request": "launch",
+            "mainClass": "Prime3",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Infix2",
+            "request": "launch",
+            "mainClass": "Infix2",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Balance_bracket",
+            "request": "launch",
+            "mainClass": "Balance_bracket",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Balance_bracket",
+            "request": "launch",
+            "mainClass": "DYNAMICSTACK.Balance_bracket",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Infix",
+            "request": "launch",
+            "mainClass": "Infix",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateBrackeate",
+            "request": "launch",
+            "mainClass": "DYNAMICSTACK.DuplicateBrackeate",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Infix1",
+            "request": "launch",
+            "mainClass": "Infix1",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Revword2",
+            "request": "launch",
+            "mainClass": "STRING.Revword2",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "String_reverse",
+            "request": "launch",
+            "mainClass": "String_reverse",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "reverse_word",
+            "request": "launch",
+            "mainClass": "STRING.reverse_word",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Linked_list",
+            "request": "launch",
+            "mainClass": "Linked_list",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "reverse_word",
+            "request": "launch",
+            "mainClass": "reverse_word",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Satck5",
+            "request": "launch",
+            "mainClass": "Satck5",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "stackreverseeword",
+            "request": "launch",
+            "mainClass": "stackreverseeword",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Math1",
+            "request": "launch",
+            "mainClass": "mathfunction.Math1",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Pattern10",
+            "request": "launch",
+            "mainClass": "PATTERN.Pattern10",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Pattern9",
+            "request": "launch",
+            "mainClass": "PATTERN.Pattern9",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern8",
+            "request": "launch",
+            "mainClass": "PATTERN.pattern8",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "PATTERN.pattern7",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "PATTERN.pattern6",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "al1",
+            "request": "launch",
+            "mainClass": "ARRALIST.al1",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "inputarrlist",
+            "request": "launch",
+            "mainClass": "ARRALIST.inputarrlist",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "twodarraylist",
+            "request": "launch",
+            "mainClass": "ARRALIST.twodarraylist",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "arrbig",
+            "request": "launch",
+            "mainClass": "ARRAYS.arrbig",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "arrmaxno",
+            "request": "launch",
+            "mainClass": "ARRAYS.arrmaxno",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "arrneg",
+            "request": "launch",
+            "mainClass": "ARRAYS.arrneg",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "iunput",
+            "request": "launch",
+            "mainClass": "ARRAYS.iunput",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "maxbetrange",
+            "request": "launch",
+            "mainClass": "ARRAYS.maxbetrange",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "maxbtrhree",
+            "request": "launch",
+            "mainClass": "ARRAYS.maxbtrhree",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "minbthree",
+            "request": "launch",
+            "mainClass": "ARRAYS.minbthree",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "second_bigarr",
+            "request": "launch",
+            "mainClass": "ARRAYS.second_bigarr",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "swapindexval",
+            "request": "launch",
+            "mainClass": "ARRAYS.swapindexval",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "third_largearr",
+            "request": "launch",
+            "mainClass": "ARRAYS.third_largearr",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "twodarray",
+            "request": "launch",
+            "mainClass": "ARRAYS.twodarray",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "PATTERN.pattern1",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "PATTERN.pattern2",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "PATTERN.pattern3",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "PATTERN.pattern4",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "PATTERN.pattern5",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "factorialrec",
+            "request": "launch",
+            "mainClass": "Recursion.factorialrec",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "gcd2",
+            "request": "launch",
+            "mainClass": "Recursion.gcd2",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "reversen",
+            "request": "launch",
+            "mainClass": "Recursion.reversen",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Stringreverse1",
+            "request": "launch",
+            "mainClass": "STRING.Stringreverse1",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "atoz",
+            "request": "launch",
+            "mainClass": "STRING.atoz",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "lowerst",
+            "request": "launch",
+            "mainClass": "STRING.lowerst",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "palindromstr",
+            "request": "launch",
+            "mainClass": "STRING.palindromstr",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "removevowel",
+            "request": "launch",
+            "mainClass": "STRING.removevowel",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "reversevowel",
+            "request": "launch",
+            "mainClass": "STRING.reversevowel",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "samestring",
+            "request": "launch",
+            "mainClass": "STRING.samestring",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "strarray",
+            "request": "launch",
+            "mainClass": "STRING.strarray",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "strinbgcharsame",
+            "request": "launch",
+            "mainClass": "STRING.strinbgcharsame",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "string1",
+            "request": "launch",
+            "mainClass": "STRING.string1",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "string4",
+            "request": "launch",
+            "mainClass": "STRING.string4",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "string5",
+            "request": "launch",
+            "mainClass": "STRING.string5",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "upperst",
+            "request": "launch",
+            "mainClass": "STRING.upperst",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Stack2",
+            "request": "launch",
+            "mainClass": "Stack2",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "Stack3",
+            "request": "launch",
+            "mainClass": "Stack3",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "alternetorder",
+            "request": "launch",
+            "mainClass": "alternetorder",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "arr",
+            "request": "launch",
+            "mainClass": "arr",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "binary",
+            "request": "launch",
+            "mainClass": "binary",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "bsort",
+            "request": "launch",
+            "mainClass": "bsort",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "countiteratenumber",
+            "request": "launch",
+            "mainClass": "countiteratenumber",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "dicecase",
+            "request": "launch",
+            "mainClass": "dicecase",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "gcd",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "perfect",
+            "request": "launch",
+            "mainClass": "perfect",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "printnum",
+            "request": "launch",
+            "mainClass": "printnum",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "removespace",
+            "request": "launch",
+            "mainClass": "removespace",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "revarray",
+            "request": "launch",
+            "mainClass": "revarray",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "search",
+            "request": "launch",
+            "mainClass": "search",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "selecsort",
+            "request": "launch",
+            "mainClass": "selecsort",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "stack",
+            "request": "launch",
+            "mainClass": "stack",
+            "projectName": "javalearn_c70d5500"
+        },
+        {
+            "type": "java",
+            "name": "switch1",
+            "request": "launch",
+            "mainClass": "switch1",
+            "projectName": "javalearn_c70d5500"
+        }
+    ]
+}

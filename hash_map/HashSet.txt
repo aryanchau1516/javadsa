@@ -1,0 +1,12 @@
+Hashset-> 1. stores only unique ele
+          2. unOrdred
+          3. consist null value
+
+          Hashset Function ->
+                            1 add(key) -> o(1)
+                            2 containsKey(key) -> o(1)
+                            3 remove(key) -> 0(1)
+                            4 isEmpty ()-> return true/false
+                            5 clear() -> clear the Hashset
+                            6 size() -> return the size of Hashset
+                            7 iterator() -> this method return the iteretor

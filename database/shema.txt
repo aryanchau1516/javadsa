@@ -1,0 +1,5 @@
+Shema -> schema define that how the database is organiized, like table entitis, row column and many more
+Table Schema -> The structure of specific table components like row, column, data types,key
+SubSchema -> A portion of the dataBase which is visible for the specific user
+Query -> is a type of request
+Result Set -> the result after the request to the server
