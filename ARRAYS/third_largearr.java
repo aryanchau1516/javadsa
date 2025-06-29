@@ -1,4 +1,4 @@
-package ARRAYS;
+
 public class third_largearr {
    
     

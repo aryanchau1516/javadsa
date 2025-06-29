@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayImp",
+            "request": "launch",
+            "mainClass": "ArrayImp",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
             "name": "Rev_1",
             "request": "launch",
             "mainClass": "ARRAYS.Rev_1",
