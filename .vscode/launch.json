@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalenceBrckt",
+            "request": "launch",
+            "mainClass": "BalenceBrckt",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
             "name": "ArrayImp",
             "request": "launch",
             "mainClass": "ArrayImp",
