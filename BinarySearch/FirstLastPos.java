@@ -13,6 +13,9 @@ import java.util.Arrays;
 public class FirstLastPos {
     int[] FirstLastPosarr(int[] arr,int target){
      int[] ans = {-1,-1};
+        if(arr.length==0){
+            return ans;
+        }
      int start =  Search(arr, target,true);    
      int end =  Search(arr,target,false);    
     ans[0]= start;

@@ -1,4 +1,4 @@
-package sTRING;
+
 public class atoz {   // complexity n^2 worst case 
     /**
      * @param args
