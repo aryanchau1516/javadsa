@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "string.IfElse",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStr",
+            "request": "launch",
+            "mainClass": "string.ReverseStr",
+            "projectName": "javadsa_903f4b62"
+        },
+        {
+            "type": "java",
             "name": "BalenceBrckt",
             "request": "launch",
             "mainClass": "BalenceBrckt",
